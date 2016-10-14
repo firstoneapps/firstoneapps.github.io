@@ -1,15 +1,22 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Video Reverser
+subtitle: iOS app
+
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: video-reverser.png
+thumbnail: video-reverser-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+project-date: March - May 2015
+project-link: https://itunes.apple.com/us/app/video-reverser/id965631333?mt=8
+project-link-description: App Store
+
+client: Dan Graham, Founder of Library Of The Human Soul, Gothic Storm Music, Lovely Music
+client-link: https://www.twitter.com/1gothicstorm
+
+category: iOS Development
+description: App for reversing video. We built this app from scratch, implemented algorithm that reverses video and audio and added <a href="http://www.mopub.com" target="_blank">MoPub</a> advertising platform.
 
 ---
