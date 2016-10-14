@@ -1,15 +1,22 @@
 ---
-title: Escape
-subtitle: Website Design
+title: CST Android
+subtitle: Android app
+
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: cst-android.png
+thumbnail: cst-android-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+client: Joel Runyon
+client-link: https://impossiblehq.com
+
+project-date: May 2015 - September 2015
+project-link: https://play.google.com/store/apps/details?id=com.impossible.cst
+project-link-description: Google Play
+
+category: Android Development
+description:  App for <a href="https://impossiblehq.com/cold-shower-therapy-guide/" target="_blank">Cold Shower Therapy challenge</a>. We built first 2 versions making it copy of existing iOS app.
 
 ---
