@@ -1,15 +1,22 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: CST iOS
+subtitle: iOS app
+
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: cst-ios.png
+thumbnail: cst-ios-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+client: Joel Runyon
+client-link: https://impossiblehq.com
+
+project-date: August 2015 - present
+project-link: https://itunes.apple.com/us/app/cst-challenge-original-cold/id693240707?mt=8
+project-link-description: App Store
+
+category: iOS Development
+description: App for <a href="https://impossiblehq.com/cold-shower-therapy-guide/" target="_blank">Cold Shower Therapy challenge</a>. We took over development of version 2.0, squashed existing bugs and added new features such as Facebook login, in-app purchases, cold shower details. We moved backend to Parse and then moved it to Parse Server on Heroku with help of <a href=http://bluelinelabs.com target="_blank">BlueLine Labs</a>.
 
 ---
