@@ -1,15 +1,22 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Scan & Shop
+subtitle: iOS app
+
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: scan-and-shop.png
+thumbnail: scan-and-shop-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+project-date: October 2015 - May 2016
+project-link: https://itunes.apple.com/us/app/scan-shop/id956761403?ls=1&mt=8
+project-link-description: App Store
+
+client: Scan & Shop Enterprises INC
+client-link: https://www.scanandshop.com
+
+category: iOS Development
+description: App for online shopping in Vancouver. We started working on existing application. We added a bunch of new features, improved stability and squashed bugs.
 
 ---
