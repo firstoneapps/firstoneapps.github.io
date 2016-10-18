@@ -1,15 +1,23 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: App in progress
+subtitle: iOS app
+
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+
+img: template.png
+thumbnail: template-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+project-date: January 2016 - present
+project-link: 
+project-link-description: 
+
+client: Dan Graham, Founder of Library Of The Human Soul, Gothic Storm Music, Lovely Music
+client-link: https://www.twitter.com/1gothicstorm
+
+category: iOS Development
+description: iPad app for kids. We're building it from scratch.
 
 ---
