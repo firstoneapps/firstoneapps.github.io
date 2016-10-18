@@ -6,7 +6,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 
-img: mindmory.png
+img: mindmory-thumbnail.png
 thumbnail: mindmory-thumbnail.png
 alt: image-alt
 

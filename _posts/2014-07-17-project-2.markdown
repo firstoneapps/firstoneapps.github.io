@@ -5,7 +5,7 @@ subtitle: Android app
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cst-android.png
+img: cst-android-thumbnail.png
 thumbnail: cst-android-thumbnail.png
 alt: image-alt
 

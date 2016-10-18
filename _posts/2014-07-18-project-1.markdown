@@ -5,7 +5,7 @@ subtitle: iOS app
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cst-ios.png
+img: cst-ios-thumbnail.png
 thumbnail: cst-ios-thumbnail.png
 alt: image-alt
 

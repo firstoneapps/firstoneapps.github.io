@@ -5,7 +5,7 @@ subtitle: iOS app
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: scan-and-shop.png
+img: scan-and-shop-thumbnail.png
 thumbnail: scan-and-shop-thumbnail.png
 alt: image-alt
 
