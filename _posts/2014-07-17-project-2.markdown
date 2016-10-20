@@ -1,0 +1,22 @@
+---
+title: CST Android
+subtitle: Android app
+
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: cst-android-thumbnail.png
+thumbnail: cst-android-thumbnail.png
+alt: image-alt
+
+client: Joel Runyon
+client-link: https://impossiblehq.com
+
+project-date: May 2015 - September 2015
+project-link: https://play.google.com/store/apps/details?id=com.impossible.cst
+project-link-description: Google Play
+
+category: Android Development
+description:  App for <a href="https://impossiblehq.com/cold-shower-therapy-guide/" target="_blank">Cold Shower Therapy challenge</a>. We built first 2 versions making it copy of existing iOS app.
+
+---

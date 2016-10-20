@@ -1,0 +1,22 @@
+---
+title: Video Reverser
+subtitle: iOS app
+
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: video-reverser-thumbnail.png
+thumbnail: video-reverser-thumbnail.png
+alt: image-alt
+
+project-date: March - May 2015
+project-link: https://itunes.apple.com/us/app/video-reverser/id965631333?mt=8
+project-link-description: App Store
+
+client: Dan Graham, Founder of Library Of The Human Soul, Gothic Storm Music, Lovely Music
+client-link: https://www.twitter.com/1gothicstorm
+
+category: iOS Development
+description: App for reversing video. We built this app from scratch, implemented algorithm that reverses video and audio and added <a href="http://www.mopub.com" target="_blank">MoPub</a> advertising platform.
+
+---

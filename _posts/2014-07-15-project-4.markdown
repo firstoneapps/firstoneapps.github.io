@@ -1,0 +1,23 @@
+---
+title: Mindmory
+subtitle: iOS app
+
+layout: default
+modal-id: 4
+date: 2014-07-15
+
+img: mindmory-thumbnail.png
+thumbnail: mindmory-thumbnail.png
+alt: image-alt
+
+project-date: October 2014 - January 2016
+project-link: https://itunes.apple.com/us/app/id923152793
+project-link-description: App Store
+
+client: Louis Tsai
+client-link: https://medium.com/@LouisTsai
+
+category: iOS Development
+description: App for lifehacking, storing actionable ideas and getting ideas from books. We started working on Mindmory since version 1.0.1. We added a lot of new features, added new design and squashed bugs.
+
+---
